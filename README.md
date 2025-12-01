@@ -1,7 +1,5 @@
-Salut 👋
+First, I'll learn Python because everyone's talking about it.
 
-J’apprends actuellement **Python** comme premier langage de programmation.  
-Je suis curieux de comprendre comment les systèmes fonctionnent en profondeur,  
-et j’aime expérimenter (parfois un peu trop 😅).  
+Then, I'll learn to use Linux because I like the interface.
 
-On verra bien jusqu’où ma machine survivra à mes tests !
+But first, I want to brag about having installed it on a virtual machine.
